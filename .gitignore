@@ -1,3 +1,5 @@
 ./env
 /env
 plan.txt
+node_modules
+main.py
